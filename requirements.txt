@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+openai-whisper
+librosa
+numpy
+matplotlib
+sqlite-utils
+python-multipart
